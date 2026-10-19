@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "total_valid_records": 0,
+    "skipped_records": 0,
+    "devices_processed": 0,
+    "devices_exported": 0,
+    "temperature_threshold": 80.0
+  },
+  "devices": []
+}

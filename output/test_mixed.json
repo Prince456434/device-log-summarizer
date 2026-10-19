@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "total_valid_records": 2,
+    "skipped_records": 2,
+    "devices_processed": 1,
+    "devices_exported": 1,
+    "temperature_threshold": 80.0
+  },
+  "devices": [
+    {
+      "device_id": "GOOD",
+      "total_records": 2,
+      "average_temperature": 55.0,
+      "error_count": 0
+    }
+  ]
+}

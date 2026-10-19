@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "total_valid_records": 3,
+    "skipped_records": 0,
+    "devices_processed": 3,
+    "devices_exported": 2,
+    "temperature_threshold": 80.0
+  },
+  "devices": [
+    {
+      "device_id": "EXACT",
+      "total_records": 1,
+      "average_temperature": 80.0,
+      "error_count": 0
+    },
+    {
+      "device_id": "UNDER",
+      "total_records": 1,
+      "average_temperature": 79.99,
+      "error_count": 0
+    }
+  ]
+}

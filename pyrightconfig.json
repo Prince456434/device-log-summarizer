@@ -1,0 +1,8 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "venvPath": "C:/Users/dell/AppData/Local/Programs/Python",
+  "pythonPath": "C:/Users/dell/AppData/Local/Programs/Python/Python312/python.exe",
+  "include": ["."],
+  "typeCheckingMode": "basic"
+}
